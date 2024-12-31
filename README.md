@@ -24,7 +24,7 @@ See **dependencies** for more info on required libraries and software installed
 
 ## Working Screenshot
 
-<img src="screenshot/NoobOS.png" alt="NoobOS" />
+<img src="screenshot/wiOS_template.png" alt="wiOS_template" />
 
 ## Dependencies
 

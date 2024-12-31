@@ -1,14 +1,14 @@
 # NoobOS
 
-A simple OS template for developers to get started with OS dev
+A simple OS
 
 ## What does this do?
 
-This is a simple and minimalistic implementation of a bootloader and a kernel to boot the OS from the disk, load the kernel, and indicate the same by printing a message on the screen.
+For now nothing
 
 ## Purpose
 
-If you want to learn more about OS dev but can't find any simple source on the same, then you can use this repository as a reference. Modern operating systems are much more complex compared to this implementation, so it is advisable to refer to other sources such as [OSdev Wiki](https://wiki.osdev.org/Main_Page) once you have a better understanding of OS dev
+Literally nothing
 
 ## Building the project
 

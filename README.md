@@ -1,4 +1,4 @@
-# NoobOS
+# wiOS
 
 A simple OS
 
